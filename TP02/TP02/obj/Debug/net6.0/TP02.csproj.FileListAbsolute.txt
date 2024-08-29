@@ -1,0 +1,15 @@
+C:\Users\unisanta\Desktop\TP02\TP02\bin\Debug\net6.0\TP02.exe
+C:\Users\unisanta\Desktop\TP02\TP02\bin\Debug\net6.0\TP02.deps.json
+C:\Users\unisanta\Desktop\TP02\TP02\bin\Debug\net6.0\TP02.runtimeconfig.json
+C:\Users\unisanta\Desktop\TP02\TP02\bin\Debug\net6.0\TP02.dll
+C:\Users\unisanta\Desktop\TP02\TP02\bin\Debug\net6.0\ref\TP02.dll
+C:\Users\unisanta\Desktop\TP02\TP02\bin\Debug\net6.0\TP02.pdb
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.dll
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\ref\TP02.dll
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.pdb
+C:\Users\unisanta\Desktop\TP02\TP02\obj\Debug\net6.0\TP02.genruntimeconfig.cache
